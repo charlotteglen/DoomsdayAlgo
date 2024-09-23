@@ -12,7 +12,7 @@ Anchors
 | ------------- | ------------- | ------------- |
 | January  | 3 (4 on leap years)  | leap day is every FOUR years |
 | February  | 28 (29 on leap years)  | last day of february |
-| March  | 14  | pi day |
+| March  | 14  | pi day 3.14 |
 | April  | 4  | 4/4 |
 | May  | 9  | i work 9-5 at the 7/11 |
 | June  | 6  | 6/6 |
